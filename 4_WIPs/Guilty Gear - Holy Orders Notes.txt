@@ -1,0 +1,8 @@
+Transpose +1 when done
+
+Copy 141 - 146
+Paste insert at 149
+
+Copy 66 - 82
+Delete 154 - 159
+Paste insert at 154

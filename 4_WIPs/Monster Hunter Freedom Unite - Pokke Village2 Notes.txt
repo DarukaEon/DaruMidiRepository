@@ -1,0 +1,9 @@
+Copy 1 - 56
+Paste insert at 57
+
+Transpose all tracks +2
+Transpose Lute +12
+
+Copy pickup to 9 - 56 beat 2
+Delete pickup to 64 - 112 beat 2
+Paste insert at pickup to 64
