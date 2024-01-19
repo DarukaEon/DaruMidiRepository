@@ -1,0 +1,13 @@
+High bongo: C5 to C7
+Low bongo: C#5 to F#6
+Open high conga: Eb5 to C#6
+Low conga: E5 to G#5
+
+
+Measure stop: 175
+
+Lute1 range: E5
+Lute2 range: D5
+
+Copy from 201 to 209
+Paste to 227
