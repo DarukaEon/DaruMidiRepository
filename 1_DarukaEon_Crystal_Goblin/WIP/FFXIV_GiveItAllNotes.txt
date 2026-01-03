@@ -1,0 +1,4 @@
+For rolling chords, swap to 1/64 note and shift right 3 per note
+
+Copy measure 5 to 23
+- Paste on measure 88 then 25

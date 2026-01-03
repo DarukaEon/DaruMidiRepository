@@ -1,0 +1,18 @@
+{
+  "Tracks": [
+    {
+      "Index": 0,
+      "Enabled": true,
+      "Name": "Piano",
+      "Transpose": 0,
+      "Instrument": 1,
+      "AssignedCids": [
+        18014498549339104,
+        0
+      ]
+    }
+  ],
+  "ToneMode": 0,
+  "AdaptNotes": true,
+  "Speed": 1.0
+}

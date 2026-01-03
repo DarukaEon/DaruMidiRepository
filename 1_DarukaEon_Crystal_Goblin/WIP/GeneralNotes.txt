@@ -1,0 +1,48 @@
+FFXIV's note range is between C4 and C7 (on Anvil Studio).
+
+Instruments in the highest octaves:
+- Piano
+- Oboe
+- Fife
+- Violin
+
+Instruments in the middle octaves:
+- Harp
+- Flute
+- Trumpet
+- Viola
+
+Instruments in the lower octaves:
+- Lute
+- Clarinet
+- Trombone
+- Cello
+- Electric Guitar
+
+Instruments in the lowest octaves:
+- Double bass
+- Tuba
+
+Percussion Notes:
+Bass Drum
+- Snare       = 7C
+- Hi-tom      = 6F#
+- Mid-tom     = 6C#
+- Floor-tom   = 5G#
+- Floor-tom   = 5D#
+- Bass Drum   = 5C
+
+Cymbals
+- Open hi-hat = 7C
+- Hi Crash    = 6G
+- Lo Crash    = 6D
+
+
+On Anvil Studio
+Instrument numbers with different sounds:
+17 - Heavy kick and heavy snare
+25 - 80s
+26 - Hip hop
+41 - Wire brush snare
+49 - Classical and timpani
+57 - Sound effects
