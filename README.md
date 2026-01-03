@@ -26,7 +26,7 @@ If you're using the songs for WWM via YueLyn/Snowiy's MIDI Player, here are some
 
 
 
-The added challenge now is to adjust the music to both FFXIV's and WWM's range (which is between C4 and B6). The problem is that many of the MIDIs I have in the repository have that high C7. With the "Raw" note calculation mode, notes beyond B6 wrap around to C4 instead of snapping to the nearest octave. This causes some music to have awkward moments where you'd just hear a random low "pwang" in the middle of the song. To alleviate that, I transpose everything down a half step, swap to the tracks with the lower octaves (i.e. lute, trombone, cello, etc.), and shift around sections of notes that go below C4 up an octave and pray it sounds good. I might end up just making a separate folder for WWM-friendly MIDIs.
+The added challenge now is to adjust the music to both FFXIV's and WWM's range (which is between C4 and B6). The problem is that many of the MIDIs I have in the repository have that high C7. With the "Raw" note calculation mode, notes on C7 wrap around to C4 instead of snapping to the nearest octave, C6. This causes some music to have awkward moments where you'd just hear a random low "pwang" in the middle of the song. To alleviate that, on Anvil Studio, I transpose everything down a half step, swap to the tracks with the lower octaves (i.e. lute, trombone, cello, etc.), and shift around sections of notes that go below C4 up an octave and pray it sounds good. I might end up just making a separate folder for WWM-friendly MIDIs.
 
 
 
