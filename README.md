@@ -4,11 +4,11 @@ Welcome! Welcome! This is a repository full of MIDI files catered for Final Fant
 
 
 
-I've been playing around with MIDI since I was 16, so to have the opportunity to put my skills to the test again is great and, much to my amazement, Anvil Studio is still alive and kicking. It's a rather old app from the early 2000s. It's super easy to use and understand (at least to me anyway), and it also has great transpose tools that allow me to shift notes around without too much trouble.
+I've been playing around with MIDI since I was 16, so to have the opportunity to put my skills to the test again is great and, much to my amazement, [Anvil Studio](https://www.anvilstudio.com/) is still alive and kicking. It's a rather old app from the early 2000s. It's super easy to use and understand (at least to me anyway), and it also has great transpose tools that allow me to shift notes around without too much trouble.
 
 
 
-I get most of my sheet music and MIDIs from MuseScore, but I also peruse YouTube for specific versions of music that I want to incorporate into the ones I have in my repository. Part of the editing process is determining which instruments to use for certain octaves. (If you dig deep in my repository, you can find my notes on what those octaves are.) I think the most difficult part is figuring out how to squish songs with massive ranges and limit them to between C4 and C7.
+I get most of my sheet music and MIDIs from [MuseScore](https://musescore.com/), but I also peruse YouTube for specific versions of music that I want to incorporate into the ones I have in my repository. Part of the editing process is determining which instruments to use for certain octaves. (If you dig deep in my repository, you can find my notes on what those octaves are.) I think the most difficult part is figuring out how to squish songs with massive ranges and limit them to between C4 and C7.
 
 
 
@@ -16,13 +16,11 @@ Also, I've gotten into Where Winds Meet (WWM) recently and I am in the process o
 
 
 
-If you're using the songs for WWM via YueLyn/Snowiy's MIDI Player, here are some settings you need to set it to:
+If you're using the songs for WWM via [YueLyn/Snowiy's MIDI Player](https://github.com/SnowiyQ/Where-Winds-Meet-Midi-Player), here are some settings you need to set it to:
 
-. Play style (key mode) = 36
-
-. Transpose             = -1
-
-. Note calculation mode = Raw
+* Play style (key mode) = 36
+* Transpose             = -1
+* Note calculation mode = Raw
 
 
 
